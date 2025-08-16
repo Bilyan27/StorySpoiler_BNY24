@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wowow\\Desktop\\asdasdsa\\StorySpoiler_BNY24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A4679D-88EB-4F8F-B40D-9ED0880E2E1A}|StorySpoiler_BNY24\\StorySpoiler_BNY24.csproj|c:\\users\\wowow\\desktop\\asdasdsa\\storyspoiler_bny24\\storyspoiler_bny24\\storyspoilerapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A4679D-88EB-4F8F-B40D-9ED0880E2E1A}|StorySpoiler_BNY24\\StorySpoiler_BNY24.csproj|solutionrelative:storyspoiler_bny24\\storyspoilerapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A4679D-88EB-4F8F-B40D-9ED0880E2E1A}|StorySpoiler_BNY24\\StorySpoiler_BNY24.csproj|c:\\users\\wowow\\desktop\\asdasdsa\\storyspoiler_bny24\\storyspoiler_bny24\\models\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A4679D-88EB-4F8F-B40D-9ED0880E2E1A}|StorySpoiler_BNY24\\StorySpoiler_BNY24.csproj|solutionrelative:storyspoiler_bny24\\models\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A4679D-88EB-4F8F-B40D-9ED0880E2E1A}|StorySpoiler_BNY24\\StorySpoiler_BNY24.csproj|c:\\users\\wowow\\desktop\\asdasdsa\\storyspoiler_bny24\\storyspoiler_bny24\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A4679D-88EB-4F8F-B40D-9ED0880E2E1A}|StorySpoiler_BNY24\\StorySpoiler_BNY24.csproj|solutionrelative:storyspoiler_bny24\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\wowow\\Desktop\\asdasdsa\\StorySpoiler_BNY24\\StorySpoiler_BNY24\\Models\\StoryDTO.cs",
+              "RelativeDocumentMoniker": "StorySpoiler_BNY24\\Models\\StoryDTO.cs",
+              "ToolTip": "C:\\Users\\wowow\\Desktop\\asdasdsa\\StorySpoiler_BNY24\\StorySpoiler_BNY24\\Models\\StoryDTO.cs",
+              "RelativeToolTip": "StorySpoiler_BNY24\\Models\\StoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:17:51.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\wowow\\Desktop\\asdasdsa\\StorySpoiler_BNY24\\StorySpoiler_BNY24\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "StorySpoiler_BNY24\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "C:\\Users\\wowow\\Desktop\\asdasdsa\\StorySpoiler_BNY24\\StorySpoiler_BNY24\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "StorySpoiler_BNY24\\Models\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:17:27.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorySpoilerApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\wowow\\Desktop\\asdasdsa\\StorySpoiler_BNY24\\StorySpoiler_BNY24\\StorySpoilerApiTests.cs",
+              "RelativeDocumentMoniker": "StorySpoiler_BNY24\\StorySpoilerApiTests.cs",
+              "ToolTip": "C:\\Users\\wowow\\Desktop\\asdasdsa\\StorySpoiler_BNY24\\StorySpoiler_BNY24\\StorySpoilerApiTests.cs",
+              "RelativeToolTip": "StorySpoiler_BNY24\\StorySpoilerApiTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:15:31.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
