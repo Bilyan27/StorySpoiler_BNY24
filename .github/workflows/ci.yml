@@ -1,0 +1,29 @@
+name: CI - Story Spoiler API Tests
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup .NET SDK
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x
+
+    - name: Restore packages
+      run: dotnet restore StorySpoiler_BNY24.sln
+
+    - name: Build solution
+      run: dotnet build StorySpoiler_BNY24.sln --no-restore
+
+    - name: Run tests
+      run: dotnet test StorySpoiler_BNY24.sln --no-build --verbosity normal
